@@ -1,87 +1,85 @@
-# Hi I'm Sona Saini
+## 🚀 Featured Projects
 
-B.Tech Computer Science Engineering Student  
-Parul University, Gujarat, India  
-Aspiring Software Developer | Interested in Artificial Intelligence & Machine Learning  
+### 🤖 AI Career Agent – AI-Powered Job Application Platform
 
----
+**Tech Stack:** Flask, Generative AI, REST APIs
 
-About Me
-
-I am a Computer Science student passionate about learning programming and building practical projects.  
-I enjoy solving coding problems, exploring Artificial Intelligence, and developing real-world applications.
-
-Currently I am improving my programming skills, practicing Data Structures and Algorithms, and learning open-source development.
+* Developed an AI-powered career assistant for resume analysis and job recommendations.
+* Implemented ATS-friendly resume evaluation and skill extraction.
+* Integrated Generative AI APIs for automated cover letter generation.
+* Designed an intelligent dashboard for tracking career opportunities.
 
 ---
 
-Technical Skills
+### 🚨 ReliefAI – AI Emergency Response System
 
-### Programming Languages
-- Python
-- C Programming
-- Java
+**Tech Stack:** Flask, Gemini API, Render
 
-### Web Development
-- HTML
-- CSS
-- Basic Frontend Development
-
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Jupyter Notebook
-- Basic Machine Learning Concepts
+* Developed an AI-powered emergency response platform.
+* Implemented intelligent disaster routing and incident prioritization.
+* Integrated real-time emergency tracking.
+* Deployed using Render with GitHub-based CI/CD workflow.
 
 ---
 
-##  Data Structures & Algorithms
+### 💬 AI Chat Assistant
 
-- Practicing Data Structures and Algorithms
-- Solving coding problems on LeetCode
-- Improving problem-solving and logical thinking
+**Tech Stack:** Python, Generative AI, APIs
 
-Topics practiced:
-- Arrays
-- Strings
-- Sorting
-- Searching
-- Recursion
-- Basic Dynamic Programming
+* Developed an intelligent chatbot capable of answering user queries.
+* Integrated AI APIs to provide conversational assistance.
+* Focused on natural language interaction and user-friendly experience.
 
 ---
 
-##  Projects
+### 🌱 AI-Based Crop Disease Detection & Farm Management
 
-### AI Based Crop Disease Detection
-An AI-based project that detects crop diseases from leaf images and helps farmers identify plant diseases.
+**Tech Stack:** Python, Machine Learning, CNN
 
-### Student Result Management System
-A Python project that calculates student marks, percentage, and grade based on subject marks.
-
-*(More projects will be added as I continue learning and building.)*
+* Built a crop disease detection system using image classification.
+* Integrated farm monitoring and crop management features.
+* Designed to support farmers with early disease identification.
 
 ---
 
-##  Currently Learning
+### 🏠 House Price Prediction using Machine Learning
 
-- Python Programming
-- Machine Learning
-- Open Source Contribution
-- Web Development
-- Advanced DSA
+**Tech Stack:** Python, Scikit-Learn, Jupyter Notebook
 
----
-
-##  Career Goals
-
-- Become a skilled Software Developer / Machine Learning Engineer
-- Contribute to open-source projects
-- Participate in Google Summer of Code (GSoC)
-- Build impactful technology solutions
+* Developed regression models for house price forecasting.
+* Performed data preprocessing and feature engineering.
+* Achieved approximately 98% R² score through model optimization.
 
 ---
 
-##  Connect With Me
+### 🎓 Student Result Management System
 
-GitHub: https://github.com/sonasaini9211-maker
+**Tech Stack:** Python
+
+* Automated marks calculation and grade generation.
+* Managed student academic records efficiently.
+* Implemented percentage and performance analysis.
+
+---
+
+### 🌐 Personal Portfolio Website
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+* Designed and developed a responsive portfolio website.
+* Showcases projects, skills, certifications, and achievements.
+* Optimized for performance and user experience.
+
+---
+
+### 🤝 Team Projects
+
+#### 📊 SADIMS
+
+* Collaborated with team members on software development and project implementation.
+* Contributed to planning, development, and testing activities.
+
+#### 🚀 Impact Project
+
+* Worked in a collaborative team environment.
+* Participated in project development, problem-solving, and technical execution.
