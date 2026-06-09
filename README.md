@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sona Saini
+# Hi 👋, I'm Soniya Saini
 
 ### 🚀 AI/ML Enthusiast | Generative AI Developer | Computer Science Engineering Student
 
